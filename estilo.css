@@ -1,0 +1,35 @@
+input[type=text]{
+	width: 20%;
+	background:lightblue;
+	font-weight:bolder;
+}
+
+input[type=text]:focus{
+	width: 20%;
+	background:white;
+}
+
+input[type=email]{
+	width: 20%;
+	background:lightblue;
+	font-weight:bolder
+}
+
+input[type=email]:focus{
+	width: 20%;
+	background:white;
+}
+
+textarea{
+	width: 20%;
+	background:lightblue;
+	font-weight:bolder;
+}
+
+label {
+	font-style: italic
+}
+select{
+	background:lightblue;
+	font-weight:bolder;
+}
